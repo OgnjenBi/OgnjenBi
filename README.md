@@ -1,6 +1,6 @@
 # Ognjen Bivolarevic
 
-> Software Engeneer | Decentralized Finance | Artificial Inteligence | Crypto enthusiast
+> Software Engineer | Decentralized Finance | Artificial Inteligence | Crypto enthusiast
 
 ## 🛠️ Technical Stack
 ```javascript
